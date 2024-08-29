@@ -5,7 +5,7 @@
    - [Evolution of public health policies in India.](https://github.com/fromsantanu/PHI-Main/blob/main/Pages/Chapter01-02.md)
    - [Current status and key statistics of public health in India.](https://github.com/fromsantanu/PHI-Main/blob/main/Pages/Chapter01-03.md)
 
-### 2. [**Healthcare Infrastructure**
+### 2. **Healthcare Infrastructure**
    - [Overview of healthcare facilities (primary, secondary, tertiary).](#)
    - [Public vs. private healthcare systems.](#)
    - [Role of government and non-government organizations in healthcare infrastructure.](#)
